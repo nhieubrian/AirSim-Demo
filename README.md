@@ -1,4 +1,13 @@
+*Note: This readme and demo was created alongside 2 AIP students*
+
 # AirSim Reinforcement Learning
+
+## File Location: -- This was done because GitLab was not allowing the large file sizes.
+
+Part 1: https://gitlab.nautilus.optiputer.net/aip_197_accchi/purple_nl/AirSim
+
+*Note: This drive is only accessible for UCSD members (Imported in a Google Drive)*
+Part 2: https://drive.google.com/drive/folders/1ww7ipw26vJ_Ap1Ph-0f7iSBuSxXaEm4w?usp=sharing
 
 ## Installation
 
