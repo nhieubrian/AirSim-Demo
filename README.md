@@ -6,7 +6,8 @@
 
 Part 1: https://gitlab.nautilus.optiputer.net/aip_197_accchi/purple_nl/AirSim
 
-*Note: This drive is only accessible for UCSD members (Imported in a Google Drive)*
+*Note: This drive is only accessible for UCSD members*
+
 Part 2: https://drive.google.com/drive/folders/1ww7ipw26vJ_Ap1Ph-0f7iSBuSxXaEm4w?usp=sharing
 
 ## Installation
